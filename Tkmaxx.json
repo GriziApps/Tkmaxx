@@ -3,7 +3,7 @@
 	"admob_banner":"ca-app-pub-9911324429492298/5559497563",
 	"admob_inter":"ca-app-pub-9911324429492298/7994089212",
 
-	"APP_KEY": "13bc39059",
+	"APP_KEY": "13be39059",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
@@ -21,7 +21,7 @@
 	"BUTTON_NAME_1": "Start Tkmaxx",
 	"BUTTON_NAME_2": "Start Shopping",
 
-	"URL" : "https://www.tkmaxx.com/",
+	"URL" : "https://www.tkkdaxx.com/",
 
 	"isAdsActivated1":true,
 	"isAdsActivated2":true
